@@ -1,0 +1,3 @@
+[submodule "mods/thelimit"]
+	path = mods/thelimit
+	url = https://github.com/Bomb458/TheLimitMT.git
